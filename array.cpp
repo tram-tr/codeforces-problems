@@ -10,11 +10,11 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	size_t n, k;
+  size_t n, k;
   cin >> n >> k;
   size_t a[n];
   
- 	unordered_map<size_t, size_t> map;
+  unordered_map<size_t, size_t> map;
   size_t l = 0; 
   size_t r = -1;
   size_t count = 0;
