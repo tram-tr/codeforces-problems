@@ -1,1 +1,1 @@
-# codeforces-problems
+# data structures and algorithms problems
