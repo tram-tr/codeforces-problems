@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
   
     vector<int>cats(n+1);
     for (int i = 1; i <= n; i++) {
-        scanf("%d", &cats[i]);
+        cin >> cats[i];
     }
   
     Undirected_Graph tree;
